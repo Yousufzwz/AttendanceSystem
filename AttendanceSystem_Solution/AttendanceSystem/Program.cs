@@ -1,1 +1,4 @@
-﻿Console.WriteLine("Temporary World");
+﻿using AttendanceSystem;
+
+ExecuteSystemOperation executeSystemOperation = new ExecuteSystemOperation();
+executeSystemOperation.LoginOptions();
