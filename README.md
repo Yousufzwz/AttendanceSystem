@@ -23,6 +23,8 @@ dotnet ef database update --project AttendanceSystem --context ProjectDbContext
 - Teachers have access to the attendance list for specific courses assigned to them by the administrator.
 
 ## Tech Stack
-### Backend: ASP.NET Core 7, Entity Framework Core
+**Backend:** ASP.NET Core 7, Entity Framework Core
+
+**Server:** Microsoft SQL Server
 
  
